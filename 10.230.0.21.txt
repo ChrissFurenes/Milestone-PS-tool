@@ -1,0 +1,35 @@
+{
+   "apiVersion":"1.0",
+   "method":"setDevicesSettings",
+   "params":{
+      "devices":[
+         {
+            "id":"0",
+            "inputs":[
+               {
+                  "id":"0",
+                  "connectionTypeSelected":"digital",
+                  "connectionTypes":[
+                     {
+                        "id":"digital",
+                        "signalingTypeSelected":"unbalanced",
+                        "signalingTypes":[
+                           {
+                              "id":"unbalanced",
+                              "powerType":"R12",
+                              "channels":[
+                                 {
+                                    "id":"0",
+                                    "gain":45
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+}
