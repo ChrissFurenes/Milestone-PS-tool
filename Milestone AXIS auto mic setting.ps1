@@ -3,7 +3,7 @@ $path_to_config = "C:\Users\Milestone\Desktop\Milestone auto update axis mic kon
 $needs_credentials = $true
 $useBasicUser = $false
 $username = "DESKTOP-VR3VNGT\Milestone"
-$password = "Tusse1009"
+$password = "passord"
 
 $content = "application/json"
 $api = "axis-cgi/audiodevicecontrol.cgi"
