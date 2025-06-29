@@ -12,5 +12,6 @@ When running the script in powershell you will be prompted for the XProtect serv
 
 Next you will be prompted for the recording server you want to check the SD card for on AXIS cameras.
 
+NB: The more cameras you have the longer it will take to load before checking for the SD card status.
 
 
