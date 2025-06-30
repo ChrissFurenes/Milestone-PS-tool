@@ -7,6 +7,7 @@
 
 ## TODO
 - make script to make camera foler based on camera model and assign camera to it.
+- report of system and cameras
 
 ### Missing something?
 Create an issue or a pull request to add your script to this list.
