@@ -5,7 +5,8 @@
    - It requires the `milestoneps-tools` module and an admin user in XProtect.
 
 
-
+## TODO
+- make script to make camera foler based on camera model and assign camera to it.
 
 ### Missing something?
 Create an issue or a pull request to add your script to this list.
