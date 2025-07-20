@@ -8,9 +8,14 @@
    - When running it wil ask to connect to an management server, then creating groups based on camera model name
    - it only adds camera stream that is enabled
 
+3. [Milestone Snapshot]()
+   - Take a snapshot of all cameras in selected groups or recording servers.
+   - It requires the `milestoneps-tools` module and an admin user in XProtect.
+   - The script will create a folder structure based on the camera model and save the snapshots there.
+
 ## TODO
-- make script to make camera foler based on camera model and assign camera to it.
-- report of system and cameras
+[x] make script to make camera foler based on camera model and assign camera to it.
+[] report of system and cameras
 
 ### Missing something?
 Create an issue or a pull request to add your script to this list.
