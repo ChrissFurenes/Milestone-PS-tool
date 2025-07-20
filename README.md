@@ -19,9 +19,14 @@ These scripts are designed to automate simple tasks in Milestone XProtect. They 
 
 ## TODO
 - [X] make script to make camera foler based on camera model and assign camera to it.
-- [ ] report of system and cameras
-- [ ] update device password in bulk, selected devices in recording server or device group.
+- [X] add camera to group based on camera model name.
 - [ ] snapshot of all cameras in selected groups or recording servers. **IN PROGRESS**
+- [ ] Creating a automated versjon of some scripts **IN PROGRESS**
+- [ ] update device password in bulk, selected devices in recording server or device group.
+- [ ] report of system and cameras
+
+
+
 
 ## Missing something?
 Create an issue or a pull request to add your script to this list.
