@@ -9,7 +9,7 @@ These scripts are designed to automate simple tasks in Milestone XProtect. They 
    - It requires the `milestoneps-tools` module and an admin user in XProtect.
 
 2. [Milestone Camera model group](https://github.com/ChrissFurenes/Milestone-PS-tool/tree/main/2.%20Milestone_Camera_model_group)
-   - When running it wil ask to connect to an management server, then creating groups based on camera model name
+   - When running, it will ask to connect to a management server, then create groups based on camera model name
    - it only adds camera stream that is enabled
 
 3. [Milestone Snapshot](https://github.com/ChrissFurenes/Milestone-PS-tool/tree/main/3.%20Milestone_Snapshot) **IN PROGRESS!**
@@ -17,13 +17,23 @@ These scripts are designed to automate simple tasks in Milestone XProtect. They 
    - It requires the `milestoneps-tools` module and an admin user in XProtect.
    - The script will create a folder structure based on the camera model and save the snapshots there.
 
+4. [Milestone Group Update device password](https://github.com/ChrissFurenes/Milestone-PS-tool/tree/main/4.%20Milestone_group_update_device_password)
+    - Update device password in bulk, selected devices in recording server or device group.
+    - It requires the `milestoneps-tools` module and an admin user in XProtect.
+    - The script will prompt for the new password and update the selected devices.
+
 ## TODO
-- [X] make script to make camera foler based on camera model and assign camera to it.
+- [X] make camera folder based on camera-device model and assign active camera to it.
 - [X] add camera to group based on camera model name.
 - [ ] snapshot of all cameras in selected groups or recording servers. **IN PROGRESS**
-- [ ] Creating a automated versjon of some scripts **IN PROGRESS**
+- [ ] Creating an automated version of some scripts **IN PROGRESS**
 - [ ] update device password in bulk, selected devices in recording server or device group.
-- [ ] report of system and cameras
+- [ ] report of a system and cameras
+- [ ] openAI/ChatGPT creates a description of the camera image
+- [ ] update camera/device clock time from local computer
+- [ ] add ntp server to camera/device
+- [ ] create backup of camera/device configuration
+- [ ] report of available firmware updates for cameras/devices **AXIS ONLY!**
 
 
 
